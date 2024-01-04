@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-export NEZHA_SERVER="abc.xyz:5555"
+export NEZHA_SERVER="serv00.frns119.free.hr:59092"
 export NEZHA_KEY="abcdwfghijklmnopqrstuvwxyz"
 
 chmod +x swith start.sh
